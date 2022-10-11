@@ -15,3 +15,7 @@ body {
       .titulo{
         color: rgb(255, 255, 255);
       }
+.flex {
+  display: flex;
+  flex-direction:row-reverse;
+}
